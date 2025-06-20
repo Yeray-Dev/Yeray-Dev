@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeray Blanco de la fuente</h1>
-<h3 align="center">Soy un apasionado de la tecnologia. Trabajo como Tecnico Electrónico. En Abril del 2024 comencé a estudiar programación. Actualmente soy estudiando de 42Madrid (42School) lo cual compagino con mi trabajo principal y con el Proyecto "The Odin Project" enfocado al desarrollo web.</h3>
+<h3 align="center">Soy un apasionado de la tecnologia. Trabajo como Técnico Electrónico. En Abril del 2024 comencé a estudiar programación. Actualmente soy estudiando de 42Madrid (42School) lo cual compagino con mi trabajo principal y con el Proyecto "The Odin Project" enfocado al desarrollo web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeray-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yeray-dev" /> </p>
 
